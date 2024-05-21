@@ -47,6 +47,18 @@ Here are the results for each company:
 | Microsoft | 0.124491 |
 | Tesla | 0.101101 |
 
+Additionally, we analyzed the correlation between Tweet volume (again excluding
+Tweets classified as "Neutral") and trading volume, and find a much higher
+correlation here:
+
+| Company | Correlation Score |
+| ------- | ----------------- |
+| Amazon | 0.547947 |
+| Apple | 0.630284 |
+| Google | 0.260550 |
+| Microsoft | 0.348763 |
+| Tesla | 0.777124 |
+
 ## Credits
 
 ### Contributors
