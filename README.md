@@ -43,7 +43,8 @@ Here are the results for each company:
 | ------- | ----------------- |
 | Amazon | 0.114406 |
 | Apple | 0.084650 |
-| Google | 0.054653 |
+| Google (Class A) | 0.175427 |
+| Google (Class C) | 0.069292 |
 | Microsoft | 0.124491 |
 | Tesla | 0.101101 |
 
@@ -55,7 +56,8 @@ correlation here:
 | ------- | ----------------- |
 | Amazon | 0.547947 |
 | Apple | 0.630284 |
-| Google | 0.260550 |
+| Google (Class A) | 0.551027 |
+| Google (Class C) | 0.413433 |
 | Microsoft | 0.348763 |
 | Tesla | 0.777124 |
 
@@ -71,6 +73,10 @@ correlation here:
 
 ### Data Attribution
 
+[Kaggle: Tweets about the Top Companies from 2015 to 2020](https://www.kaggle.com/datasets/omermetinn/tweets-about-the-top-companies-from-2015-to-2020?select=Tweet.csv)
+
+[MarketStack: Real-Time, Intraday &
+Historical Market Data API](https://marketstack.com/)
 
 ### VADER Sentiment Analysis
 
